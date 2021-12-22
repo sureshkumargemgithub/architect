@@ -2,17 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Weather Forcasting landing page](./project-landing-page.html).
 
-[Link to another page](./another-page.html).
+# Weather Forcasting
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This is a python project where it takes data for several days from all over India and try to predict weather based on previous data.
 
 ## Header 2
 
